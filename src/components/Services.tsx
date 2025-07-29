@@ -1,4 +1,4 @@
-import { Scissors, Razor, Sparkles, Crown } from 'lucide-react'
+import { Scissors, Zap, Sparkles, Crown } from 'lucide-react'
 
 const services = [
   {
@@ -10,7 +10,7 @@ const services = [
     features: ['Consultation', 'Wash & Style', 'Hot Towel']
   },
   {
-    icon: Razor,
+    icon: Zap,
     title: 'Traditional Shave',
     description: 'Classic hot towel shave with premium products',
     price: '$35',
